@@ -1,0 +1,4 @@
+VIC
+===
+
+VendorItemCollaboration
